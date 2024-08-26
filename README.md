@@ -1,4 +1,4 @@
-# CasablancaAI
+# CasablancaAI:
 This Language Learning Model (LLM) has been implemented in the form of a Telegram bot, providing users with a friendly interface for language learning. 
 
 ### Files
