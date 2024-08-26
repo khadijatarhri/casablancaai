@@ -1,7 +1,6 @@
 # CasablancaAI:
 This Language Learning Model (LLM) has been implemented in the form of a Telegram bot, providing users with a friendly interface for language learning. 
-
-### Files
+### Files;
 book_ted.pdf: The primary text corpus used for training the Language Learning Model (LLM).
 
 get_db.py: Script to connect to the mongodb database.
